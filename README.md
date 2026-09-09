@@ -31,7 +31,7 @@ My goal is to build a personal portfolio website where I can showcase my project
 
 ## Let's Connect
 
-* **GitHub:** 
+* **GitHub:** https://github.com/Humbertok15/Assignment-1-GitHub-Profile-README.git
 * **LinkedIn:** www.linkedin.com/in/humberto-kentishokwu
 * **Portfolio:** Coming Soon
 
