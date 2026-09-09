@@ -1,6 +1,6 @@
 # Assignment-1-GitHub-Profile-README
 
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Humberto Kentish Jr.! 👋
 
 I'm a college student interested in software development and technology. I'm currently learning about web development, Git, GitHub, and different areas of the software development lifecycle. I'm excited to continue building my technical skills and learning how technology can be used to solve real-world problems.
 
